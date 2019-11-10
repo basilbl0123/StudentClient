@@ -1,0 +1,18 @@
+.table{
+    font-size: px;
+    text-align: center;
+    border: 1px solid black;
+    width: 80%;
+    height: 50px;
+  }
+  .td{
+    background-color: rgba(97, 4, 121, 0.582);
+    border: 1px solid black;
+    height: 50px;
+  }
+  .tr{
+    background-color: rgba(100, 6, 109, 0.466);
+    border: 1px solid rgb(0, 0, 0);
+    height: 50px;
+  }
+
